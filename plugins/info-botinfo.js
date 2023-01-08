@@ -56,7 +56,7 @@ let handler = async (m, { conn, usedPrefix, __dirname, text, command }) => {
 `🤖 ɴᴀᴍᴇ: ${_package.name}
 🧩 ᴠᴇʀsɪᴏɴ: ${_package.version}
 📚 ʟɪʙʀᴀʀʏ: ${_package.description}
-👩‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: PutraModz
+👩‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: 𝐈𝐤𝐲𝐲 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥
 
 ⏳ ᴜᴩᴛɪᴍᴇ: ${uptime}
 📈 ᴅᴀᴛᴀʙᴀsᴇ: ${totalreg}
@@ -74,7 +74,7 @@ let handler = async (m, { conn, usedPrefix, __dirname, text, command }) => {
 ⮕ ${groupsIn.length - groupsIn.length} - Groups Left
 ⮕ ${chats.length - groupsIn.length} - Personal Chats
 ⮕ ${chats.length} - Total Chats
-`.trim(), './media/botinfo.jpg', 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff', '🎀GRUP', null, null, [
+`.trim(), './media/botinfo.jpg', 'https://chat.whatsapp.com/Lao3HWH4lYiBzWBR38HbTX', '🎀GRUP', null, null, [
 [`👑ᴏᴡɴᴇʀ`, `${usedPrefix}owner`],
 [`💱ᴅᴏɴᴀᴛᴇ`, `${usedPrefix}donate`]
 ], m, {asLocation: false})

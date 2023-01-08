@@ -46,21 +46,21 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6289514509029'
-global.nomorown = '62856091885235'
-global.namebot = 'IkyyBotz'
-global.nameown = 'IkyyOfc'
+global.nomorown = '6282281657946'
+global.namebot = '𝗜𝗸𝘆𝘆-𝗕𝗼𝘁𝘇'
+global.nameown = '𝕴𝖐𝖞𝖞 𝕺𝖋𝖋𝖎𝖈𝖎𝖆𝖑'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['62856091885235'],
   ['62856091885235'],
-  ['62856091885237'],
-  ['62856091885235', 'IkyyOfc', true]
+  ['62822816579468'],
+  ['6282281657946', '𝕴𝖐𝖞𝖞 𝕺𝖋𝖋𝖎𝖈𝖎𝖆𝖑', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['6282281657946'] // Want some help?
+global.prems = ['6282281657946'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -108,15 +108,15 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝐈𝐤𝐲𝐲𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥'//nama group kalian
-global.wm = 'By IkyyBotz' //Main Watermark
-global.wm2 = 'IkyyOfc'
-global.wm3 = 'IkyyBotz | By IkyyOfc'
+global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝑰𝒌𝒚𝒚-𝑩𝒐𝒕'//nama group kalian
+global.wm = 'By ɪᴋʏʏ ʙᴏᴛᴢ' //Main Watermark
+global.wm2 = 'ƖƘƳƳ OFFƖᑕƖᗩᒪ'
+global.wm3 = '𝙄𝙠𝙮𝙮𝘽𝙤𝙩𝙯 | By 𝗜𝗸𝘆𝘆𝗢𝗳𝗰'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `IkyyBotz | ʙʏ ${global.nameown}`
-global.author = 'IkyyOfc' 
-global.packname = 'IkyyOfc'
+global.titlebot = `𝗜𝗸𝘆𝘆𝗕𝗼𝘁𝘇 | ʙʏ ${global.nameown}`
+global.author = '𝙄𝙠𝙮𝙮𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡' 
+global.packname = '𝙄𝙠𝙮𝙮𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'Maret 04 2023'
 
@@ -138,7 +138,7 @@ global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 global.nameowner = 'IkyyOfc'
 global.umurowner = '15'
 global.asalowner = 'Lampung, Lampung Tengah'
-global.nomorowner = 'wa.me/62856091885235'
+global.nomorowner = 'wa.me/6282281657946'
 global.pacarowner = 'ALAY😈🔥'
 
 /*============== TEXT ==============*/
@@ -387,8 +387,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By IkyyBotz'
-global.stickauth = `IkyyOfc`
+global.stickpack = 'By 𝗜𝗸𝘆𝘆𝗕𝗼𝘁𝘇'
+global.stickauth = `𝙄𝙠𝙮𝙮𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡`
 
 global.multiplier = 38 // The higher, The harder levelup
 
