@@ -31,8 +31,8 @@ global.sig = 'https://instagram.com/'
 global.syt = 'https://youtube.com/'
 global.sgh = 'https://github.com/diki6969'
 global.sgc = 'https://chat.whatsapp.com/Lao3HWH4lYiBzWBR38HbTX'
-global.sdc = 'https://wa.me/62856091885235'
-global.swa = 'wa.me/62856091885235'
+global.sdc = 'https://wa.me/6282281657946'
+global.swa = 'wa.me/6282281657946'
 global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
@@ -60,7 +60,7 @@ global.owner = [
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = ['6282281657946'] // Want some help?
-global.prems = ['6282281657946'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = ['6285609188523'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
